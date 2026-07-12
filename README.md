@@ -1,1 +1,1 @@
-# This a Expense Tracker Project 
+# This is a Expense Tracker Project 
